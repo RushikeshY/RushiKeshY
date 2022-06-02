@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushikeshy" alt="rushikeshy" /></a> </p>
 
-- 🌱 I’m currently learning **Material-UI,Redux**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **rushikeshyerme321@gmail.com**
 
