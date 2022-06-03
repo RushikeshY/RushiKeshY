@@ -5,9 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushikeshy" alt="rushikeshy" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+
+<p>Portfolio:-<a href="https://rushikesh-yerme-portfolio.netlify.app/" target:"_blank">https://rushikesh-yerme-portfolio.netlify.app/</a></p>
+
+- 🔭 I’m currently working on *Frontend Development*
+
+- 🌱 I’m currently learning *React & Redux*
+
+- 💬 Ask me about *MERN stack*
 
 - 📫 How to reach me **rushikeshyerme321@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1A6QaPSM1DMG1NxOo1KUOarXBroyUvpOH/view?usp=sharing](https://drive.google.com/file/d/1A6QaPSM1DMG1NxOo1KUOarXBroyUvpOH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
