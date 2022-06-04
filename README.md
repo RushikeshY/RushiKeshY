@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushikeshy" alt="rushikeshy" /></a> </p>
 
 
-<p>Portfolio:-<a href="https://rushikesh-yerme-portfolio.netlify.app/" target:"_blank">https://rushikesh-yerme-portfolio.netlify.app/</a></p>
+<h2>Portfolio:-<a href="https://rushikesh-yerme-portfolio.netlify.app/" target:"_blank">https://rushikesh-yerme-portfolio.netlify.app/</a></h2>
 
 - 🔭 I’m currently working on *Frontend Development*
 
